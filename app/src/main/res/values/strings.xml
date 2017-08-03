@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wild cats</string>
+
+    <string name="change_color_1">About panther</string>
+    <string name="change_color_2">About leopard</string>
+    <string name="change_color_3">About lynx №3</string>
+
+    <string name="title_panther">Panther</string>
+    <string name="about_panther1">Black Panther is not a separate species of animal, and the name dark-colored animals of several species of large cats, representing a genetic variant of colouring, that is a manifestation of melanism, that is, heritable changes in coloration. It follows that black Panther is a leopard or Jaguar with black color. Among pumas melanism has not yet been confirmed.</string>
+    <string name="about_panther2">Black Panthers live primarily in rainforests of South and Southeast Asia. A lot of them in South-Western China, Burma, Nepal, southern India. And, here in Indonesia and southern Malaysia black leopards are more common than light. These animals have also been reported in areas of Ethiopia, the forests of mount (Kenya) and Aberdares in Africa.</string>
+    <string name="about_panther3">Black Panther is a predator and can adapt well to new conditions. They eat almost anything that moves, but their basic diet is meat, particularly medium-sized mammals. And, if necessary, they replace one form of production to others. In case of shortage of wild animals, they catch livestock or Pets near their habitat. Sometimes, you can follow a diet and then eat only grass, eggs and fruit.</string>
+    <string name="about_panther4">At present, they are under threat of extinction. We humans are the largest threat to them. Hunters kill black Panthers for precious furs. So they will move closer to the habitat of the wild animals to be farther from human.</string>
+
+    <string name="title_leopard">Leopard</string>
+    <string name="about_leopard1">Leopard – colorful, graceful, incredibly majestic and cunning animal of the feline breeds.He is a beautiful dappled color, with a predominance of white, black and brown. There are animals of the genus leopards, which increased content of the pigment in the coat, they are black or dark brown.</string>
+    <string name="about_leopard2">This cat is fast and very careful, strong, muscular and strong body. Her vision is excellent. Leopard sees perfect at any time of the day. The claws and teeth of the animal are amazingly sharp.</string>
+    <string name="about_leopard3">At length the leopard reaches from 80 to 180cm. The female usually weighs 50 kg and 70 kg. male has long tail that can sometimes give out their location because the tail length of 75-110 cm in leopard can not press.</string>
+    <string name="about_leopard4">The main advantage of the leopard, which distinguishes it from all other animals, and helps it be a little noticeable, is its fur.</string>
+
+    <string name="title_lynx">Lynx</string>
+    <string name="about_lynx1">The lynx is a carnivorous animal of the cat family. This is a typical big cat, which are bigger than many dogs. The lynx lives in Russia, Belarus, Estonia, Sweden, Poland, Czech Republic, Ukraine, Lithuania, Croatia.</string>
+    <string name="about_lynx2">The main food of the lynx is rabbits. Also, the lynx preys on Teterev birds, small rodents, rarely on ROE deer, deer, dogs. Its prey are foxes, raccoons, small animals, partridge and grouse.</string>
+    <string name="about_lynx3">The color of lynx is quite different, it all depends on their habitats, and species to which they belong. The most common lynx with a reddish-gray or grayish-brown shade with distinct large dark spots on back and sides. Smaller spots cover the legs and chest of the animal.</string>
+    <string name="about_lynx4">The rear paws of the lynx different in structure from the clutches of the other cats, they are longer than the front. On the hind legs of the lynx 4 fingers, and on the front 5. In winter the soles of the paws is covered with especially thick fur that allows lynx to move around easily in the snow and not sink in the snowdrifts. When the lynx walks step, her hind feet tread in the footsteps of the front feet. The traces resemble the lynx trail cat with big paws.</string>
+
+
+</resources>
