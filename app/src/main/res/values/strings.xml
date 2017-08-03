@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Wild cats</string>
 
-    <string name="change_color_1">About panther</string>
-    <string name="change_color_2">About leopard</string>
-    <string name="change_color_3">About lynx №3</string>
+    <string name="btn_panther">About panther</string>
+    <string name="btn_leopard">About leopard</string>
+    <string name="btn_lynx">About lynx</string>
 
     <string name="title_panther">Panther</string>
     <string name="about_panther1">Black Panther is not a separate species of animal, and the name dark-colored animals of several species of large cats, representing a genetic variant of colouring, that is a manifestation of melanism, that is, heritable changes in coloration. It follows that black Panther is a leopard or Jaguar with black color. Among pumas melanism has not yet been confirmed.</string>

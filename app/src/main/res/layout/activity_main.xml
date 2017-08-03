@@ -89,7 +89,7 @@
                 <Button
                     android:id="@+id/button1"
                     android:background="@color/colorRed"
-                    android:text="@string/change_color_1"
+                    android:text="@string/btn_panther"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -100,7 +100,7 @@
                 <Button
                     android:id="@+id/button2"
                     android:background="@color/colorGreen"
-                    android:text="@string/change_color_2"
+                    android:text="@string/btn_leopard"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -111,7 +111,7 @@
                 <Button
                     android:id="@+id/button3"
                     android:background="@color/colorBlue"
-                    android:text="@string/change_color_3"
+                    android:text="@string/btn_lynx"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
