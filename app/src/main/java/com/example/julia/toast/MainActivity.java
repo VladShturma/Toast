@@ -44,7 +44,10 @@ public class MainActivity extends AppCompatActivity {
         textView4 = (TextView) findViewById(R.id.textView4);
 
         imageView = (ImageView) findViewById(R.id.imageView);
-
+    /* чтобы не дублировать один и тот же метод 3 раза
+    лучше сделать один общий метод changeColor, который будет принимать в качестве параметров
+    идентификатор цвета, изображения и текстов
+     */
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
