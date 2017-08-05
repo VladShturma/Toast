@@ -8,6 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--имя атрибута стиля надо прописывать полностью. То есть
+    вместо layout_width писать android:layout_width-->
+    
     <!--Не работает пока-->
     <!--<style name="TitleTheme">-->
         <!--<item name="layout_width">match_parent</item>-->
